@@ -1,15 +1,22 @@
 #include <Arduino.h>
 #include <motor.h>
-#include <bluetooth.h>
+
 
 void setup() {
-   pinMode(13, OUTPUT);
-   pinMode(12, OUTPUT);
-   Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(9, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(6, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop() {
-  ledOn();
+  delay(1000);
+  digitalWrite(13, LOW);
+  digitalWrite(12, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(8, LOW);
     }
 
 
