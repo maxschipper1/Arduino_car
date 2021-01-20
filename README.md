@@ -5,7 +5,7 @@ The goal of the project is to create a car model, steered by an Arduino. The ard
 I will give the Arduino functions for the DC motors as well as the servo-motor and combining them to create a program for the car to follow. 
    The original plan was to call on these functions using bluetooth, making it possible to steer the car from your device. Unfortunatly the bluetooth side of the project was too advanced and the time was too little. 
 
-I will build a frame using legos. I will then 3D-print the body for a more aesthetic look. 
+I will build a frame using legos. I will then 3D-print the body that I will create in CAD for a more aesthetic look. See the picture down below. 
 
 **Components i will use:**
  * Arduino
@@ -22,5 +22,13 @@ The main focus is instead on the machanical aspect of the project. Creating a ch
 
 The steering mechanism is actually one of the best attributes of the car, where several components is used and sucessfully transforms the circular motion and makes the wheels turn. 
 
-Here's a picture of the chassi and the electric circuit. 
-![Image of car](images/car.jpg){:height="50%" width="50%"}
+### Here's a picture of the chassi and the electric circuit. 
+![Image of car](images/car.jpg)
+
+### Here's a picture of the bady that I designed in CAD
+![Image of CAD CAR](images/Car_render2.jpg) 
+
+### Here's a picture of the schematic of the electric circuit. 
+![Image of schematic](images/circuit.png)
+
+
