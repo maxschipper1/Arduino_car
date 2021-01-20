@@ -23,4 +23,4 @@ The main focus is instead on the machanical aspect of the project. Creating a ch
 The steering mechanism is actually one of the best attributes of the car, where several components is used and sucessfully transforms the circular motion and makes the wheels turn. 
 
 Here's a picture of the chassi and the electric circuit. 
-![Image of car](images/car.jpg =250x250)
+![Image of car](images/car.jpg){:height="50%" width="50%"}
