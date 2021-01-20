@@ -22,4 +22,4 @@ The main focus is instead on the machanical aspect of the project. Creating a ch
 
 The steering mechanism is actually one of the best attributes of the car, where several components is used and sucessfully transforms the circular motion and makes the wheels turn. 
 
-![Image of car](Hämtadef iler/render.jpg)
+![Image of car](images/render.jpg)
